@@ -1,0 +1,10 @@
+# Ambientes Virtuais
+.env/
+
+# Cache do Python e Pytest
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/

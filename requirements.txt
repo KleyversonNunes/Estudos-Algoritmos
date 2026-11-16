@@ -1,0 +1,13 @@
+# Interfaces Gráficas e Animação
+pygame>=2.5.2
+customtkinter>=5.2.2
+
+# Análise de Complexidade e Gráficos
+plotly>=5.19.0
+pandas>=2.2.0        # Dependência útil para manipular os dados do plotly
+memory-profiler>=0.61.0
+
+# Qualidade, Tipagem e Testes
+pytest>=8.0.2
+mypy>=1.9.0
+ruff>=0.3.0
